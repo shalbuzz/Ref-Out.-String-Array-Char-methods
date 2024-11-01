@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Ref, Out. String, Array, Char methods": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
